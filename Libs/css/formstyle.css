@@ -1,0 +1,40 @@
+.btn-suc{
+    background: #285C4D; 
+    color: white;
+}
+.btn-suc:hover{
+    background: #25a890; 
+    color: white;
+}
+.btn-can{
+    background: #9D2449; 
+    color: white;
+}
+.btn-can:hover{
+    background: #E2356A; 
+    color: white;
+}
+
+#contentf{
+    margin-top: 10%; 
+    margin-left:0; 
+    width: 100%;
+}
+
+#peques{
+    background: #fff5e2; 
+    width: 40%; 
+    border-radius: 15px
+}
+
+#medianos{
+    background: #fff5e2; 
+    width: 70%; 
+    border-radius: 15px
+}
+
+#grandes{
+    background: #fff5e2; 
+    width: 90%; 
+    border-radius: 15px;
+}
